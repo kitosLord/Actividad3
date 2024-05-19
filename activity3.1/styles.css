@@ -1,0 +1,46 @@
+* {
+ 
+    font-family: "Poesten One", Helvetica, Arial, sans-serif;
+}
+
+body{
+    background-color: #CDDDD6 ;
+}
+
+header{
+    background-color: rgb(28, 194, 64);
+    border-radius: 10px;
+    padding: 2px;
+    text-align: center;
+}
+
+.A1{
+    background-color: #DFBCE1 ;
+    border-radius: 10px;
+    height: 40px;
+    text-align: center;
+    top: -10px;
+    padding-top: 20px; 
+    padding-bottom: 10px;
+}
+
+section {
+    background-color: rgb(105, 179, 179);
+    height: 40px;
+    padding: 40px;
+    padding-bottom: 60px;
+    border-radius: 10px;
+    width: 30%;
+    left: 30px;
+    position: relative;
+    top: 40px;
+    margin-top: 10px;
+}
+
+#map {
+	height: 400px;
+	width: 50%;
+    left: 45%;
+    margin-top: -30%;
+   
+}

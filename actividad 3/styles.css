@@ -1,0 +1,101 @@
+* {
+ 
+    font-family: "Poesten One", Helvetica, Arial, sans-serif;
+}
+
+body{
+    background-color: #D4E9F0;
+}
+
+header {
+    background-color: #6AE43D;
+    text-align: center;
+    font-size: 20 px;
+    font-weight: bold;
+    border-radius: 10px;
+    color: aliceblue;
+    padding: 6px;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 4px;
+    margin-top: 10px;
+}
+
+
+
+.A1 {
+    text-align: center;
+    font-size: 15 px;
+    font-weight: bold ;
+    line-height: 50px;
+    color: whitesmoke;
+    background-color: #5CD82F;
+    margin-left: 30%;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: -15px;
+    
+}
+
+h3{
+    margin-left: 20px;
+}
+
+.A2{
+    background-color:#CFE7C6;
+    margin-left: 30%;
+    height: 280px ;
+    border-radius: 10px;
+    padding: 6px;
+    border-left: 30px;
+    margin-top: 40px;
+}
+
+
+.A3{
+    background-color: #5CD82F;
+    height: 40px;
+    border-radius: 10px;
+    
+}
+
+.B1{
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    margin-top: 5px;
+}
+
+.A4{
+    background-color: #CFE7C6;
+    height: 100px;
+}
+
+.B2{
+    margin-top: 5px;
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.A7 {
+    background-color: #327acc;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 25px;
+    text-align: center;
+}
+
+img{
+    height: 400px;
+    position: relative;
+    top: -370px;
+    left: 30px;
+    margin-bottom:  -300px;
+}
+
+
